@@ -1,6 +1,15 @@
 # 🐾 Dogs - Rede Social para Cães
 
-> 🌐 **Projeto ao vivo:** [https://vercel.app](https://vercel.app)
+> 🌐 **Projeto ao vivo:** [https://dogs-puce-sigma.vercel.app/](https://dogs-puce-sigma.vercel.app/)
+
+## 🔐 Credenciais para Teste (Demo)
+
+Para explorar as áreas restritas do projeto (Perfil, Postar Foto, Estatísticas), utilize os seguintes dados de acesso:
+
+- **Utilizador:** `dog`
+- **Password:** `dog`
+
+> **Nota:** Pode também criar a sua própria conta clicando em "Registar" na página de login.
 
 Este projeto foi desenvolvido durante o curso completo de **React.js da Origamid**, ministrado por André Rafael. É uma aplicação SPA (Single Page Application) que simula uma rede social onde os utilizadores podem publicar fotos dos seus cães, visualizar o feed, comentar e acompanhar estatísticas.
 
@@ -31,7 +40,7 @@ Este projeto foi fundamental para consolidar:
 4. Otimização de performance com limpeza de efeitos e memorização.
 
 ---
-    
+
 ## ⚙️ Como rodar o projeto
 
 1. Clone o repositório.
