@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import './app.css';
+import './App.css';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import Home from './Components/Home';
@@ -12,7 +12,7 @@ import Photo from './Components/Photo/Photo';
 
 const App = () => {
   return (
-
+          
     <div className='App'>
       <BrowserRouter>
         <UserStorage>
