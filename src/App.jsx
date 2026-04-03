@@ -5,7 +5,7 @@ import Header from './Components/Header';
 import Footer from './Components/Footer';
 import Home from './Components/Home';
 import Login from './Components/Login/Login';
-import { UserStorage } from './UserContext';
+import { UserStorage } from './UserContext.jsx'
 import User from './Components/User/User';
 import ProtectRouter from './Components/Helper/ProtectRouter';
 import Photo from './Components/Photo/Photo';
