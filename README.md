@@ -6,8 +6,8 @@
 
 Para explorar as áreas restritas do projeto (Perfil, Postar Foto, Estatísticas), utilize os seguintes dados de acesso:
 
-- **Utilizador:** `dog`
-- **Password:** `dog`
+- **Usuário:** `dog`
+- **Senha:** `dog`
 
 > **Nota:** Pode também criar a sua própria conta clicando em "Registar" na página de login.
 
